@@ -1,4 +1,4 @@
-My name is Christoph and I am a senior researcher in software engineering at [Simula Research Laboratory](https://simula.no).
+My name is Christoph, and I am a senior researcher at [Simula Research Laboratory](https://simula.no).
 - I mainly work on AI-based testing solutions, software performance testing, and quantum software testing.
 - I am on the job market for industrial positions in Oslo, Norway in person and remotely.
 <!--

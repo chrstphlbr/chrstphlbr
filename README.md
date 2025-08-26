@@ -1,4 +1,5 @@
-## Hi there 👋
+- I am a senior researcher in software engineering at [Simula Research Laboratory](https://simula.no).
+- I am working on AI-based testing solutions, software performance testing, and quantum software testing.
 
 <!--
 **chrstphlbr/chrstphlbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

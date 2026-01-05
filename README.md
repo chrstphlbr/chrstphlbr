@@ -1,4 +1,4 @@
-My name is Christoph, a previous software engineering researcher looking for industry roles.
+My name is Christoph, previously a software engineering researcher looking for industry roles.
 - I mainly worked on AI-based testing solutions, software performance testing, and quantum software testing.
 - I am on the job market for software engineer positions in Oslo, Norway and remotely.
 <!--

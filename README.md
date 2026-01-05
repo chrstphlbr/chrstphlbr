@@ -1,5 +1,5 @@
-My name is Christoph, and I am a senior researcher at [Simula Research Laboratory](https://simula.no).
-- I mainly work on AI-based testing solutions, software performance testing, and quantum software testing.
+My name is Christoph, a previous software engineering researcher looking for industry roles.
+- I mainly worked on AI-based testing solutions, software performance testing, and quantum software testing.
 - I am on the job market for software engineer positions in Oslo, Norway and remotely.
 <!--
 **chrstphlbr/chrstphlbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
-My name is Christoph, previously a software engineering researcher looking for industry roles.
+My name is Christoph, previously a software engineering researcher looking for software engineering roles in industry.
 - I mainly worked on AI-based testing solutions, software performance testing, and quantum software testing.
 - I am on the job market for software engineer positions in Oslo, Norway and remotely.
+- I have a PhD in Computer Science (Software Engineering) from the [University of Zurich](https://ifi.uzh.ch).
 <!--
 **chrstphlbr/chrstphlbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

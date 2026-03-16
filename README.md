@@ -1,6 +1,5 @@
-My name is Christoph, previously a software engineering researcher looking for software engineering roles in industry.
-- I mainly worked on AI-based testing solutions, software performance testing, and quantum software testing.
-- I am on the job market for software engineer positions in Oslo, Norway and remotely.
+My name is Christoph, I am a software engineer at [Telenor Linx](https://www.telenorlinx.com), working in the next generation of phone number verification.
+- I was in research for 9 years at [Simula Research Laboratory](https://www.simula.no) and the [University of Zurich](https://www.ifi.uzh.ch), where I worked on AI-based software systems testing, software performance testing, and quantum software testing.
 - I have a PhD in Computer Science (Software Engineering) from the [University of Zurich](https://ifi.uzh.ch).
 <!--
 **chrstphlbr/chrstphlbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
